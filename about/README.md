@@ -1,6 +1,6 @@
 # แนะนำตัว
 
-![](/about/gitlab_profile.jpg)
+![](./gitlab_profile.jpg)
 
 > ชื่อ `เดียร์` ครับ   
   
