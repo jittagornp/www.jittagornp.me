@@ -1,0 +1,6 @@
+{
+    "name" : "Jenkins + GitLab Webhook",
+    "createdAt" : "2020-01-17T19:40:32",
+    "defaultSeries" : "jenkins",
+    "tags" : ["jenkins", "gitlab"]
+}

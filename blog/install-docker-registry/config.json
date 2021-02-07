@@ -1,0 +1,6 @@
+{
+    "name" : "การทำ Docker Registry ขึ้นมาใช้งานเอง",
+    "createdAt" : "2020-02-09T13:35:32",
+    "defaultSeries" : "docker",
+    "tags" : ["docker", "registry"]
+}

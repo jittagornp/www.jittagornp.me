@@ -1,0 +1,25 @@
+{
+    "name": "เรียนรู้ DevOps",
+    "articles": [
+        {
+            "name": "ทำความรู้จักกับ DevOps",
+            "url": "/blog/what-is-devops/"
+        },
+        {
+            "name" : "เรียนรู้ Docker",
+            "url" : "/blog/install-docker-on-ubuntu-18.04/?series=docker"
+        },
+        {
+            "name": "เรียนรู้ Jenkins",
+            "url": "/blog/install-docker-jenkins-jdk-11-on-ubuntu-18.04/?series=jenkins"
+        },
+        {
+            "name": "เรียนรู้ Kubernetes",
+            "url": "/blog/install-kubernetes-on-ubuntu-18.04/?series=k8s"
+        },
+        {
+            "name": "เรียนรู้ Kong",
+            "url": "/blog/install-kong-on-ubuntu-18.04/?series=kong"
+        }
+    ]
+}

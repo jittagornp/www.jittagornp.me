@@ -1,0 +1,6 @@
+{
+    "name" : "ติดตั้ง Kubernetes Dashboard (Web GUI) สำหรับ Monitor Kubernetes Cluster",
+    "createdAt" : "2020-02-13T20:50:32",
+    "defaultSeries" : "k8s",
+    "tags" : ["kubernetes", "dashboard"]
+}

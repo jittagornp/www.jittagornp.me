@@ -1,0 +1,11 @@
+/target/
+/.settings/
+.classpath
+.factorypath
+.project
+.nb-configuration.xml
+
+.idea/
+.DS_Store
+*/.DS_Store
+*.iml

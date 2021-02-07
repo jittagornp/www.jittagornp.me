@@ -1,0 +1,6 @@
+{
+    "name" : "การ Deploy Java Spring-boot ไปยัง Kubernetes (K8S)",
+    "createdAt" : "2020-02-12T12:51:32",
+    "defaultSeries" : "k8s",
+    "tags" : ["java", "spring-boot", "kubernetes", "k8s"]
+}

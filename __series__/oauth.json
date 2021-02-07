@@ -1,0 +1,25 @@
+{
+    "name": "เรียนรู้ OAuth",
+    "articles": [
+        {
+            "name" : "OAuth 2.0 คืออะไร ทำงานยังไง แบบ Step by Step",
+            "url" : "https://docs.google.com/presentation/d/1GefptamJEHczcnkNo1Gjsv2DFO2ctFjGvc7AYEf35Gg/edit?usp=sharing"
+        },
+        {
+            "name": "แนวทางปฏิบัติที่ดี ในการทำ OAuth 2.0 Access Token & Refresh Token เพื่อความปลอดภัย",
+            "url": "/blog/best-practice-to-design-oauth-token/"
+        },
+        {
+            "name": "การออกแบบ ระบบ Authentication ของ Micro Service",
+            "url": "/blog/design-authentication-for-micro-service/"
+        },
+        {
+            "name": "Design ระบบ Authentication ยังไงให้รองรับทั้ง Desktop, Web, Mobile, Single Page Aplication และ Micro Service",
+            "url": "/blog/how-to-design-authentication-system/"
+        },
+        {
+            "name": "OAuth 2.0 Flow",
+            "url": "https://developer.pamarin.com/document/authentication/"
+        }
+    ]
+}

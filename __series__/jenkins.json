@@ -1,0 +1,29 @@
+{
+    "name": "เรียนรู้ Jenkins",
+    "articles": [
+        {
+            "name": "เรียนรู้ DevOps",
+            "url": "/blog/what-is-devops/?series=devops"
+        },
+        {
+            "name": "ติดตั้ง Jenkins JDK 11 ด้วย Docker บน Ubuntu 18.04",
+            "url": "/blog/install-docker-jenkins-jdk-11-on-ubuntu-18.04/"
+        },
+        {
+            "name": "พื้นฐานการเขียน Jenkins Pipeline",
+            "url": "/blog/jenkins-pipeline/"
+        },
+        {
+            "name": "Jenkins + GitLab Webhook",
+            "url": "/blog/jenkins-gitlab-webhook/"
+        },
+        {
+            "name": "ทำให้ Jenkins ส่งข้อความแจ้งเตือนเข้า Line กรณีที่ระบบ Deploy ไม่สำเร็จ",
+            "url": "/blog/jenkins-line-notify/"
+        },
+        {
+            "name" : "Parallel build ด้วย Jenkins (CI/CD) Master/Slave",
+            "url" : "/blog/jenkins-master-slave/"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name" : "ติดตั้ง Docker Compose บน Ubuntu 18.04",
+    "createdAt" : "2020-04-29T15:21:32",
+    "defaultSeries" : "docker",
+    "tags" : ["docker", "compose"]
+}

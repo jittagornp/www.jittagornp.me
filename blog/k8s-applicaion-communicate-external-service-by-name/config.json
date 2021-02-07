@@ -1,0 +1,6 @@
+{
+    "name" : "การทำให้ Application ใน Kubernetes ติดต่อกับ External Service ด้วยชื่อ แทนการใช้ IP Address",
+    "createdAt" : "2020-02-15T15:46:32",
+    "defaultSeries" : "k8s",
+    "tags" : ["kubernetes", "k8s"]
+}

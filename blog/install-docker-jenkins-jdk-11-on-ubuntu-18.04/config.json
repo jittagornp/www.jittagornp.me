@@ -1,0 +1,6 @@
+{
+    "name" : "ติดตั้ง Jenkins JDK 11 ด้วย Docker บน Ubuntu 18.04",
+    "createdAt" : "2020-01-13T22:56:32",
+    "defaultSeries" : "jenkins",
+    "tags" : ["jenkins", "jdk11", "docker"]
+}

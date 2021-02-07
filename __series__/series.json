@@ -1,0 +1,45 @@
+{
+    "name": "Series บทความ",
+    "articles": [
+        {
+            "name": "เรียนรู้ OAuth",
+            "url": "/blog/best-practice-to-design-oauth-token/?series=oauth" 
+        },
+        {
+            "name": "เรียนรู้ Java Security",
+            "url": "/blog/java-keystore/?series=java-security"
+        },
+        {
+            "name": "เรียนรู้ Public Key Infrastructure",
+            "url": "/blog/public-key-infrastructure/?series=pki"
+        },
+        {
+            "name": "เรียนรู้ DevOps",
+            "url": "/blog/what-is-devops/?series=devops"
+        },
+        {
+            "name" : "เรียนรู้ Git",
+            "url" : "https://docs.google.com/presentation/d/15OPX4ho6uvhgOubxFxSp1Cl7myOlyQ7OBC9PoClMwBA/edit?usp=sharing"
+        },
+        {
+            "name" : "เรียนรู้ Docker",
+            "url" : "/blog/install-docker-on-ubuntu-18.04/?series=docker"
+        },
+        {
+            "name": "เรียนรู้ Jenkins",
+            "url": "/blog/install-docker-jenkins-jdk-11-on-ubuntu-18.04/?series=jenkins"
+        },
+        {
+            "name": "เรียนรู้ Kong",
+            "url": "/blog/install-kong-on-ubuntu-18.04/?series=kong"
+        },
+        {
+            "name": "เรียนรู้ Kubernetes",
+            "url": "/blog/install-kubernetes-on-ubuntu-18.04/?series=k8s"
+        },
+        {
+            "name": "เรียนรู้ Spring-boot Reactive (WebFlux)",
+            "url": "https://github.com/jittagornp/spring-boot-webflux-example"
+        }
+    ]
+}

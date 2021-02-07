@@ -1,0 +1,6 @@
+{
+    "name" : "Setup Kong Loadbalancing",
+    "createdAt" : "2020-01-17T23:30:32",
+    "defaultSeries" : "kong",
+    "tags" : ["kong"]
+}

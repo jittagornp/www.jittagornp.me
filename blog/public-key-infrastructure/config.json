@@ -1,0 +1,6 @@
+{
+    "name" : "โครงสร้างการเข้ารหัสข้อมูลแบบกุญแจสาธารณะ (Public Key Infrastructure)",
+    "createdAt" : "2020-01-21T13:50:32",
+    "defaultSeries" : "pki",
+    "tags" : ["pki", "security"]
+}

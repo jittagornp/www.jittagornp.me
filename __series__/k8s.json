@@ -1,0 +1,29 @@
+{
+    "name": "เรียนรู้ Kubernetes",
+    "articles": [
+        {
+            "name": "เรียนรู้ DevOps",
+            "url": "/blog/what-is-devops/?series=devops"
+        },
+        {
+            "name" : "พื้นฐาน Kubernetes",
+            "url" : "https://medium.com/sirisoft/getting-start-with-kubernetes-5b4e6b89241e" 
+        },
+        {
+            "name": "ติดตั้ง Kubernetes บน Ubuntu 18.04",
+            "url": "/blog/install-kubernetes-on-ubuntu-18.04/"
+        },
+        {
+            "name": "ติดตั้ง Kubernetes Dashboard (Web GUI) สำหรับ Monitor Kubernetes Cluster",
+            "url": "/blog/install-kubernetes-dashboard/"
+        },
+        {
+            "name": "การ Deploy Java Spring-boot ไปยัง Kubernetes (K8S)",
+            "url": "/blog/deploy-java-springboot-to-kubernetes/"
+        },
+        {
+            "name" : "การทำให้ Application ใน Kubernetes ติดต่อกับ External Service ด้วยชื่อ แทนการใช้ IP Address",
+            "url" : "/blog/k8s-applicaion-communicate-external-service-by-name/"
+        }
+    ]
+}
