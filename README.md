@@ -2,7 +2,7 @@
 
 > ผมขอมอบความรู้ และประสบการณ์ต่าง ๆ เหล่านี้ เพื่อเป็นประโยชน์แก่สังคมครับ
 
-# 10 บทความล่าสุด <img class="ui-new-icon" src="/new-icon.png">
+# 10 บทความล่าสุด <img class="ui-new-icon" src="./new-icon.png" width="70">
 
 - [WebSocket คืออะไร ทำงานยังไง (อธิบายแบบละเอียด)](/blog/what-is-websocket/) <span class="ui-article-post-at">Jan 24, 2021</span>
 - [สรุปสั้น ๆ เรื่อง Internationalization (i18n) และ Localization (L10n)](/blog/short-summary-of-i18n-L10n/) <span class="ui-article-post-at">Nov 6, 2020</span> 
