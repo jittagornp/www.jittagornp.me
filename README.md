@@ -132,6 +132,7 @@ Highlight วันที่สีน้ำเงิน คือบทควา
 - [SRI Hash Generator](https://www.srihash.org/)
 - [Responsively](https://responsively.app/)
 - [Passwords Generator](https://passwordsgenerator.net/)
+- [Generate code สำหรับแก้สีรูป .svg](https://codepen.io/sosuke/pen/Pjoqqp)
 
 # บทความน่าอ่าน 
 
