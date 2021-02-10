@@ -55,7 +55,7 @@ service <-> service เป็นแบบ stateless
 
 ![](./design-authentication-for-micro-service.png)
 
-ระบบจริง ๆ วิ่งผ่าน gateway (kong) น่ะครับ แต่ลบรูปออกเพื่อให ้diagram มันกระชับ
+ระบบจริง ๆ วิ่งผ่าน gateway (kong) น่ะครับ แต่ลบรูปออกเพื่อให้ diagram มันกระชับ
   
 ผลลัพธ์ที่ได้ (จาก zipkin : distribute tracing system)  
 
