@@ -13,9 +13,12 @@ jobs:
     
     steps:
     - name: Deploy to Server
-      uses: easingthemes/ssh-deploy@v2.1.5
-      env:
-          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: ${{ secrets.REMOTE_TARGET }}
+      uses: appleboy/ssh-action@master
+      with:
+        key: ${{ secrets.REMOTE_KEY }}
+        host: ${{ secrets.REMOTE_HOST }}
+        username: ${{ secrets.REMOTE_USER }}
+        port: ${{ secrets.REMOTE_PORT }}
+        script: |
+          rm -rf ~/www.jittagornp.me/dist 
+          cd ~/www.jittagornp.me && git pull
