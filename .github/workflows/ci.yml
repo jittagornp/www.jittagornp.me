@@ -15,4 +15,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Update articles
-        run: curl https://www.jittagornp.me/update-articles
+        run: curl ${{secrets.UPDATE_ARTICLES_URL}}
