@@ -217,11 +217,7 @@ Repository ที่ต้องการลงมา แล้วก็ Deploy 
 
 ตัวอย่าง 
 
- <iframe width="680" height="400" 
-src="https://www.youtube.com/watch?v=U5NTpQoE1Tw" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="680" height="383" src="https://www.youtube.com/embed/U5NTpQoE1Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # การทำงานของ Blog Template
 
