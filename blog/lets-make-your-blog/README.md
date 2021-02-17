@@ -134,10 +134,10 @@ Blog นี้ไม่ได้ใช้  Vue, React หรือ Angular
 
 จากภาพด้านบน จะเห็นว่าองค์ประกอบหลัก ๆ ของ Blog จะมีอยู่ 3 ส่วน คือ 
 
-**1. Cloudflare** [https://www.cloudflare.com/](https://www.cloudflare.com/)     
+**1. [Cloudflare](https://www.cloudflare.com/)**   
 ไว้ทำ `DNS` + `HTTPS` + `CDN` (Caching) สามารถอ่านได้จากบทความ [ทำ Website เราให้เป็น https ด้วย Cloudflare](/blog/https-by-cloudflare/)
 
-**2. DigitalOcean** [https://www.digitalocean.com/](https://www.digitalocean.com/)     
+**2. [DigitalOcean](https://www.digitalocean.com/)**     
 เป็น VPS (Virtual Private Server) ไว้ Run Server ง่าย ๆ แค่ 1 เครื่อง   
 ตอนนี้ใช้ Spec เครื่องแค่       
 
@@ -149,7 +149,7 @@ Blog นี้ไม่ได้ใช้  Vue, React หรือ Angular
 
 > เนื่องจากคนไม่ได้อ่านบทความเยอะมาก เลยใช้ Spec เครื่องแค่นี้พอ 
 
-**3. GitHub** [https://github.com/](https://github.com/)    
+**3. [GitHub](https://github.com/)**   
 ไว้ฝาก Source Code โดยแยกเป็น 2  Repositories คือ 
 
 - [บทความ (Public Repository)](https://github.com/jittagornp/www.jittagornp.me) 
