@@ -32,6 +32,8 @@
 ขอบคุณทุก ๆ คน ที่เข้ามาอ่านบทความ และหลาย ๆ คนที่ติดตามผมมาตลอด ในหลาย ๆ ปี   
   
 ขอบคุณ และ ยินดีที่ได้รู้จักทุกคนครับ   
+
+---
     
 Facebook Page : [https://www.facebook.com/jittagornp.me](https://www.facebook.com/jittagornp.me)    
 Facebook : [https://www.facebook.com/jittagornp/](https://www.facebook.com/jittagornp/)  
