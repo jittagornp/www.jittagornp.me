@@ -1,15 +1,15 @@
 # แนะนำตัว
 
-![](/about/gitlab_profile.jpg)
+![](/about/my-photos.png) 
 
-> ชื่อ `เดียร์` ครับ   
+> ชื่อ `จิตกร พิทักษ์เมธากุล` ชื่อเล่น `เดียร์` ครับ   
   
 เกิดปี 2532 (1989)  
 เป็นคนอำเภอแคนดง จังหวัดบุรีรัมย์  
 
 ปัจจุบัน เป็นคุณพ่อ เลี้ยงลูกและทำงานเป็น Freelance อยู่ที่บ้าน
   
-เป็นคนนึงที่ชอบอ่าน และเขียนบทความมาก ๆ รวมทั้ง เป็นคนที่ค่อนข้างขี้ลืมอะไรง่าย ๆ ด้วย เลยอยากที่จะเขียนบล็อก หรือ บทความต่าง ๆ เอาไว้กันลืมให้ตัวเอง  
+เป็นคนนึงที่ชอบอ่าน และเขียนบทความเอามาก ๆ รวมทั้ง เป็นคนที่ค่อนข้างขี้ลืมอะไรง่าย ๆ ด้วย เลยอยากที่จะเขียนบล็อก หรือ บทความต่าง ๆ เอาไว้กันลืมให้ตัวเอง  
   
 เริ่มหัดเขียนบทความครั้งแรก ตั้งแต่เรียนอยู่ปี 3   
 เขียนไปเขียนมา กลายเป็นคนที่เสพติดการเขียนไปโดยไม่รู้ตัว  ว่างไม่ได้ ต้องหาอะไรอ่าน หาอะไรเขียนตลอด  
@@ -25,36 +25,24 @@
   
 ก็เลยเป็นที่มาของบล็อกใหม่นี้ คือเป็นบล็อกที่ผมเขียน Code เองทั้งหมดเลย (ไหน ๆ ก็เป็นโปรแกรมเมอร์ล่ะ)   
 
-โดยใช้ Stack ดังต่อไปนี้
+ถ้าใครสนใจว่า Blog นี้สร้างยังไง สามารถอ่านได้จากบทความนี้
 
-**Frontend**  
-- Html 
-- Css
-- JavaScript
-- JQuery
-- Font Awesome
-- Google Font
-- Facebook Plugins
-- PWA (Progressive Web App)
-
-**Backend**
-- Apache Maven
-- Java
-- Spring-boot Reactive (WebFlux)
-- Postgresql
-- Markdown Text Processor
-- HTML + YUI Compressor
-
-**Other**
-- Visual Studio Code
-- Apache NetBeans IDE
-- GitHub
-- DigitalOcean
-- Cloudflare 
+- [ไหน ๆ ก็เป็น Developer แล้ว เรามาสร้าง Weblog (Blog) ใช้เองกันเถอะ!](/blog/lets-make-your-blog/)
   
 ขอบคุณทุก ๆ คน ที่เข้ามาอ่านบทความ และหลาย ๆ คนที่ติดตามผมมาตลอด ในหลาย ๆ ปี   
   
 ขอบคุณ และ ยินดีที่ได้รู้จักทุกคนครับ   
+
+---
+
+### Follow me 
+
+Facebook Page : [https://www.facebook.com/jittagornp.me](https://www.facebook.com/jittagornp.me)    
+Facebook : [https://www.facebook.com/jittagornp/](https://www.facebook.com/jittagornp/)  
+GitHub : [https://github.com/jittagornp](https://github.com/jittagornp)  
+Buy me a coffee : [https://www.buymeacoffee.com/jittagornp](https://www.buymeacoffee.com/jittagornp). 
+
+
 
 
 
