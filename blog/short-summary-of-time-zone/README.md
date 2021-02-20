@@ -4,7 +4,9 @@
 
 *[Image from https://freepng.pictures/download/earth-planet-globe-world-3/](https://freepng.pictures/download/earth-planet-globe-world-3/)*
 
-> โลกนี้เป็นทรงกลม 
+<blockquote class="ui-blockquote-heading">
+    <h1>โลกนี้เป็นทรงกลม</h1>
+</blockquote>
 
 เพราะฉะนั้นวันเวลาที่เกิดขึ้นในแต่ละประเทศ แต่ละพื้นที่ทั่วโลก  **จะไม่เท่ากัน**
   
