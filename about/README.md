@@ -6,6 +6,12 @@
   
 เกิดปี 2532 (1989)  
 เป็นคนอำเภอแคนดง จังหวัดบุรีรัมย์  
+  
+และเป็น
+
+<blockquote class="ui-blockquote-heading">
+    <h1>Software Developer พ่อลูกอ่อน</h1>
+</blockquote>  
 
 ปัจจุบัน เป็นคุณพ่อ เลี้ยงลูกและทำงานเป็น Freelance อยู่ที่บ้าน
   
