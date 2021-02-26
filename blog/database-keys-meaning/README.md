@@ -21,7 +21,7 @@ Table : Employees
 
 ![](./table-employees.png)
 
- เมื่อเราพิจารณาคำจำกัดความแล้ว  เราอาจพิจารณาได้ว่ามี Super Key ในเทเบิล  Employees ทั้งหมดดังนี้
+ เมื่อเราพิจารณาคำจำกัดความแล้ว  เราอาจพิจารณาได้ว่ามี Super Key ใน Table Employees ทั้งหมดดังนี้
 1. EmpID
 2. EmpID + FirstName
 3. EmpID + LastName
@@ -92,8 +92,8 @@ EmpID + FirstName ถือเป็น Composite Key คือเป็น Key 
 
 # Foreign Key  
 
-หมายถึง Key ที่อ้างไปยัง Primary Key ของอีกเทเบิลหนึ่ง  
-เช่น ในเทเบิล  Employees DepID ถือเป็น Foreign Key เพราะ  DepID ได้อ้างไปยัง Primary Key ของอีกเทเบิลหนึ่ง 
+หมายถึง Key ที่อ้างไปยัง Primary Key ของ Table หนึ่ง  
+เช่น ใน Table Employees DepID ถือเป็น Foreign Key เพราะ  DepID ได้อ้างไปยัง Primary Key ของอีก Table หนึ่ง 
 
 ![](./foreign-key.png)
 
