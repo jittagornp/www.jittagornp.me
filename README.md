@@ -142,6 +142,9 @@ Highlight วันที่สีน้ำเงิน คือบทควา
 - [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 - [YAML | In One Video (YouTube)](https://www.youtube.com/watch?v=cdLNKUoMc6c)
 - [Series บทความ Kubernetes จากคุณ Sawit M.](https://dev.to/peepeepopapapeepeepo)
+- [Not About Code โดยคุณ ijemmy](http://www.notaboutcode.com/) 
+
+ขอบคุณเจ้าของบทความมาก ๆ ครับ
 
 # แนะนำตัว
 
