@@ -143,6 +143,7 @@ Highlight วันที่สีน้ำเงิน คือบทควา
 - [YAML | In One Video (YouTube)](https://www.youtube.com/watch?v=cdLNKUoMc6c)
 - [Series บทความ Kubernetes จากคุณ Sawit M.](https://dev.to/peepeepopapapeepeepo)
 - [Not About Code โดยคุณ ijemmy](http://www.notaboutcode.com/) 
+- [Microservice Architecture](https://microservices.io/)
 
 ขอบคุณเจ้าของบทความมาก ๆ ครับ
 
