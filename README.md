@@ -28,7 +28,6 @@
 - [แนวทางปฏิบัติที่ดี ในการทำ OAuth 2.0 Access Token & Refresh Token เพื่อความปลอดภัย](/blog/best-practice-to-design-oauth-token/) <span class="ui-article-post-at">Jan 19, 2020</span>
 - [การออกแบบ ระบบ Authentication ของ Micro Service](/blog/design-authentication-for-micro-service/) <span class="ui-article-post-at">Jan 19, 2020</span>
 - [Design ระบบ Authentication ยังไงให้รองรับทั้ง Desktop, Web, Mobile, Single Page Aplication และ Micro Service](/blog/how-to-design-authentication-system/) <span class="ui-article-post-at">Feb 8, 2020</span>
-- [OAuth 2.0 Flow](https://developer.pamarin.com/document/authentication/) <span class="ui-article-post-at">Jan 19, 2020</span>
 
 # Git
 
