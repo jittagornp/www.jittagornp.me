@@ -16,10 +16,6 @@
         {
             "name": "Design ระบบ Authentication ยังไงให้รองรับทั้ง Desktop, Web, Mobile, Single Page Aplication และ Micro Service",
             "url": "/blog/how-to-design-authentication-system/"
-        },
-        {
-            "name": "OAuth 2.0 Flow",
-            "url": "https://developer.pamarin.com/document/authentication/"
         }
     ]
 }
