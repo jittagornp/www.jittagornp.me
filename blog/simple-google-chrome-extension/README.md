@@ -214,7 +214,7 @@ Developer Dashboard
 
 # หลังจากวันนั้น 
 
-<img src="./after-success.png" width="550">
+<img src="./after-success.png?v=1" width="550">
 
 # เพิ่มเติม
 
