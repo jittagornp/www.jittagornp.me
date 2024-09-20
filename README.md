@@ -97,7 +97,7 @@
 - [ทำ Authentication ให้ LLM API ด้วย APISIX](https://medium.com/lotuss-it/%E0%B8%97%E0%B8%B3-authentication-%E0%B9%83%E0%B8%AB%E0%B9%89-llm-api-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-apisix-1cda2a6aaba8) <span class="ui-article-post-at">Aug 11, 2024</span>
 
 # K6
-- [k6 example](https://github.com/jittagornp/k6-example)
+- [k6 example](https://github.com/jittagornp/k6-example) <span class="ui-article-post-at">Jan 24, 2024</span>
 
 # Database
 - [ความหมายของคีย์ (Keys) ชนิดต่าง ๆ ใน Database](/blog/database-keys-meaning/) <span class="ui-article-post-at">Jan 11, 2020</span>
