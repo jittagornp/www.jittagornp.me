@@ -4,6 +4,8 @@
 
 # 10 บทความล่าสุด <img class="ui-new-icon" src="./new-icon.png" width="70">
 
+- [วิธีการ Setup Https ให้กับ APISIX](https://medium.com/lotuss-it/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3-setup-https-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A-apisix-8a654f32c1a3) <span class="ui-article-post-at">Sep 5, 2024</span>
+- [ทำ Authentication ให้ LLM API ด้วย APISIX](https://medium.com/lotuss-it/%E0%B8%97%E0%B8%B3-authentication-%E0%B9%83%E0%B8%AB%E0%B9%89-llm-api-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-apisix-1cda2a6aaba8) <span class="ui-article-post-at">Aug 11, 2024</span>
 - [มาทำให้ Java Spring-boot Application ของเราทำงานเป็น Windows Service กันเถอะ!](https://medium.com/lotuss-it/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89-java-spring-boot-application-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-windows-service-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-6f0da2344c91) <span class="ui-article-post-at">Jan 3, 2024</span>
 - [iWallet - DeFi Portfolio Rebalancing](https://hub.docker.com/r/jittagornp/iwallet) <span class="ui-article-post-at">Jul 26, 2021</span>
 - [Java DeFi-SDK](https://github.com/jittagornp/java-defi-sdk) <span class="ui-article-post-at">Jul 11, 2021</span>
@@ -12,8 +14,6 @@
 - [สรุปสั้น ๆ เรื่อง Internationalization (i18n) และ Localization (L10n)](/blog/short-summary-of-i18n-L10n/) <span class="ui-article-post-at">Nov 6, 2020</span> 
 - [ตั้งค่า Time Zone สำหรับ Ubuntu 20.04 LTS](/blog/set-timezone-for-ubuntu20.04/) <span class="ui-article-post-at">Oct 28, 2020</span> 
 - [สรุปสั้น ๆ เรื่องเขตเวลา (Time Zone) และไขข้อสงสัยว่าทำไมเวลาประเทศไทยถึงเป็น UTC+7](/blog/short-summary-of-time-zone/) <span class="ui-article-post-at">Oct 24, 2020</span> 
-- [พื้นฐาน Kubernetes](https://docs.google.com/presentation/d/1Dg8dYMF4kcj6ly2Pi2KeBF1BsWPjWhPrvN9W9tREW5w/edit?usp=sharing) <span class="ui-article-post-at">Jul 18, 2020</span>  
-- [Demo Kubernetes บน DOKS หรือ DigitalOcean Kubernetes Service](https://github.com/jittagornp/kubernetes-demo) <span class="ui-article-post-at">Jul 18, 2020</span> 
 
 # Web
 
@@ -91,6 +91,10 @@
 - [ติดตั้ง Kong ด้วย Docker บน Ubuntu 18.04](/blog/install-docker-kong-on-ubuntu-18.04/) <span class="ui-article-post-at">Jun 25, 2020</span>
 - [การ Setup Kong Loadbalancing](/blog/setup-kong-loadbalancing/) <span class="ui-article-post-at">Jan 17, 2020</span>
 - [การทำให้ Kong Admin API ปลอดภัย](/blog/secure-kong-admin-api/) <span class="ui-article-post-at">Jan 9, 2020</span>
+
+# APISIX
+- [วิธีการ Setup Https ให้กับ APISIX](https://medium.com/lotuss-it/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3-setup-https-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A-apisix-8a654f32c1a3) <span class="ui-article-post-at">Sep 5, 2024</span>
+- [ทำ Authentication ให้ LLM API ด้วย APISIX](https://medium.com/lotuss-it/%E0%B8%97%E0%B8%B3-authentication-%E0%B9%83%E0%B8%AB%E0%B9%89-llm-api-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-apisix-1cda2a6aaba8) <span class="ui-article-post-at">Aug 11, 2024</span>
 
 # Database
 - [ความหมายของคีย์ (Keys) ชนิดต่าง ๆ ใน Database](/blog/database-keys-meaning/) <span class="ui-article-post-at">Jan 11, 2020</span>
