@@ -99,6 +99,9 @@
 # K6
 - [k6 example](https://github.com/jittagornp/k6-example) <span class="ui-article-post-at">Jan 24, 2024</span>
 
+# Wiremock
+- [Wiremock example](https://github.com/jittagornp/wiremock-example) <span class="ui-article-post-at">Oct 12, 2024</span>
+
 # Database
 - [ความหมายของคีย์ (Keys) ชนิดต่าง ๆ ใน Database](/blog/database-keys-meaning/) <span class="ui-article-post-at">Jan 11, 2020</span>
 - [Database Trigger คืออะไร ทำงานอย่างไร](/blog/what-is-database-trigger/) <span class="ui-article-post-at">Jan 28, 2020</span>
